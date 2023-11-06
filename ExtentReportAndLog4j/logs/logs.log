@@ -1,0 +1,9 @@
+[INFO ] 2023-11-06 15:50:55.603 [main] TestLogger - Implicit wait is applied for 10 seconds
+[INFO ] 2023-11-06 15:51:00.290 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-11-06 15:51:00.578 [main] TestLogger - Quitted the driver
+[INFO ] 2023-11-06 15:52:17.849 [main] TestLogger - Implicit wait is applied for 10 seconds
+[INFO ] 2023-11-06 15:52:28.277 [main] TestLogger - Logged into Myntra
+[ERROR] 2023-11-06 15:52:38.311 [main] TestLogger - Exception occured
+java.lang.Exception: Element Not Found
+	at com.CucumberFile.TestLogger.main(TestLogger.java:31) [test-classes/:?]
+[INFO ] 2023-11-06 15:52:38.915 [main] TestLogger - Quitted the driver
